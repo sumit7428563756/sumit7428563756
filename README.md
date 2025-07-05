@@ -3,7 +3,8 @@
 - 🔭 I’m passionate to learn Android Developement with Data Structure and Algorithms.
 - 🌱 I’m currently learning Android Developement with Kotlin and Java.
 - 🚀 I’m looking for Opportunity as a Android developer.
-- 
+- ⚡ Fun fact: I'm Fresher and I have Abiltity to Adapt New Complex Things.
+  
 ### 📬 How to reach me :-
 
 <table>
@@ -24,7 +25,6 @@
 </table>
 
 
-
 - [Leetcode]![Screenshot 2025-07-05 114454](https://github.com/user-attachments/assets/d0cbbe10-c066-4ce7-b3e2-48e3ffae440c)
-- ⚡ Fun fact: I'm Fresher and I have Abiltity to Adapt New Complex Things.
+
 -->
