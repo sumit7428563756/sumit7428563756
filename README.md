@@ -21,8 +21,14 @@
         <br/>LeetCode
       </a>
     </td>
+    <td align="center">
+      <a href="https://drive.google.com/file/d/1js8IauMhqlDFOmXha7JUMFwgLpNgLSup/view?usp=drive_link">
+        📄<br/>Sumit Resume
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 <h2>LeetCode Progress</h2>
