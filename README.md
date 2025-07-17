@@ -25,7 +25,11 @@
 </table>
 
 
-- ![LeetCode](<img width="540" height="244" alt="Screenshot 2025-07-17 100834" src="https://github.com/user-attachments/assets/b6fd7564-4fcc-4e87-9ad4-d4420e40b164" />
-)
+<h2>LeetCode Progress</h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b6fd7564-4fcc-4e87-9ad4-d4420e40b164" width="540" height="244" alt="LeetCode Progress"/>
+</p>
+
 
 -->
