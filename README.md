@@ -25,6 +25,7 @@
 </table>
 
 
-- [Leetcode]!["Screenshot 2025-07-17 100834"](src="https://github.com/user-attachments/assets/a5b45c3c-4e47-4493-aa93-2eb40efaa0a9"/>)
+- ![LeetCode](<img width="540" height="244" alt="Screenshot 2025-07-17 100834" src="https://github.com/user-attachments/assets/b6fd7564-4fcc-4e87-9ad4-d4420e40b164" />
+)
 
 -->
