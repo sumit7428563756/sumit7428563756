@@ -25,6 +25,6 @@
 </table>
 
 
-- [Leetcode]![Screenshot 2025-07-05 114454](https://github.com/user-attachments/assets/d0cbbe10-c066-4ce7-b3e2-48e3ffae440c)
+- [Leetcode]!["Screenshot 2025-07-17 100834"](src="https://github.com/user-attachments/assets/a5b45c3c-4e47-4493-aa93-2eb40efaa0a9"/>)
 
 -->
